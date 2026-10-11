@@ -1,2 +1,2 @@
-# TI---Solu-es-Pr-ticas
+# TI-Solucoes-Praticas
 Assistente Inteligente Virtual de TI
